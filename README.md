@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuppeW
 - 👀 I’m interested in Chess and Golf
-- 🌱 I’m currently learning VS Code, Javascript and node.js
+- 🌱 I’m currently learning VSCode and node.js
 - 💞️ I’m looking for guiding in basic programming and Discord bots.
 - 📫 How to reach me:
 - Email: Anders.woien96@gmail.com
